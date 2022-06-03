@@ -6,7 +6,7 @@ title: Siddhant Sorann
 superuser: true
 
 # Role/position/tagline
-role: Masters' in Computer Science Student
+role: Incoming CS Grad @ ASU | Sr. Software Engineer @ MiQ | Opensource | MiQ Impact Award Winner
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,10 +64,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a Masters in Computer Science Graduate student at Arizona State University, Tempe. My area of interests include Distributed Systems, Cloud Computing and Database Management. 
+Having worked as a Software Engineer for four years, I have realized that the growth in the size of an application or system is proportionate to the scope of a business over time. However, this growth often presents challenges of scalability, efficiency, and privacy, thus deciding the solvency of a business. Therefore, with a motivation to enhance my knowledge in distributed systems and lead teams in the industry to develop more scalable and efficient systems, I am pursuing a Master’s in Computer Science at Arizona State University. This degree would provide me with a robust platform for advancing my knowledge and augment my ability to develop scalable applications.
 
-I completed my B.Tech. in Computer Science & Engineering from Vellore Institute of Technology in 2018. After this I joined MiQ Digital as a Software Engineer. I managed to drive many critical projects to completion, which helped me become one of the youngest Senior Software Engineers' there. I was awarded 2 Individual Quarterly Awards and 1 Individual Annual Award for showcasing the company values. An ever-growing interest in this field, galvanized me to pursue a Master's in Computer Science at Arizona State University.
+I completed my B.Tech. in Computer Science & Engineering from Vellore Institute of Technology in 2018. After this, I joined MiQ Digital as a Software Engineer. I managed to drive many critical projects to completion, which helped me become one of the youngest Senior Software Engineer there. I was endowed with multiple awards for showcasing our company values.
 
-Some of my passions include Microservices, Distributed Systems, Big Data, REST, CI/CD and HA/DR Services. I have also been a passionate open source contributer, having majorly contributed to the project [Spring Cloud Dataflow](https://dataflow.spring.io/). I also author [Tech Blogs](https://medium.com/@siddhant_47693) to share my learnings with a wider audience. 
+Some of my passions include Microservices, Distributed Systems, Big Data, REST, CI/CD, and HA/DR Services. I have also been a passionate open-source contributor, having majorly contributed to the project [Spring Cloud Dataflow](https://dataflow.spring.io/). I also author [Tech Blogs](https://medium.com/@siddhant_47693) to share my learnings with a wider audience. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
