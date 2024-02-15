@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Java, Python, Javascript, SQL
+  - description: Java, Python, Ruby, SQL, NoSQL, Javascript, Typescript, Node.js, HTML/CSS
     icon: terminal 
     icon_pack: fas
     name: Programming Languages
-  - description: MySQL, MongoDB, Redis, Firebase
+  - description: MySQL, PostgreSQL MongoDB, Redis, Firebase
     icon: database
     icon_pack: fas
     name: Databases
-  - description: Spring Boot, Spring Cloud, Spring MVC, Hibernate, React + Redux, REST, Angular, AWS Cloud, Kubernetes, Docker, Helm, Jenkins, Prometheus, Grafana
+  - description: Kubernetes, Docker, GIT, AWS Cloud (EC2, S3, SQS, Aurora, EKS), Jenkins, Prometheus, Grafana, Azure, GCP
     icon: screwdriver-wrench
     icon_pack: fas
-    name: Tools & Frameworks
+    name: Tools
+  - description:  Spring Boot, Flask, Maven, Hibernate, JUnit, TestNG, Mockito, Ruby on Rails, React, Angular, Helm, Apache Kafka, Apache Solr, REST API
+    icon: book
+    icon_pack: fas
+    name: Frameworks
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
