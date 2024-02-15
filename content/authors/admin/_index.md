@@ -6,15 +6,15 @@ title: Siddhant Sorann
 superuser: true
 
 # Role/position/tagline
-role: Incoming CS Grad @ ASU | Sr. Software Engineer @ MiQ | Opensource | MiQ Impact Award Winner
+role: Software Engineer | 4+ yrs in Programmatic Ad-Tech | Distributed Systems, Cloud Computing | Java, Spring Boot, SQL, NoSQL, Kubernetes | Seeking Software Engineering Roles
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Arizona State University
-    url: https://www.asu.edu/
+  - name: MathWorks
+    url: https://www.mathworks.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, database management and cloud computing.
+# bio: My research interests include distributed systems, database management and cloud computing.
 
 # Interests to show in About widget
 interests:
