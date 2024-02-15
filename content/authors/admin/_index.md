@@ -45,9 +45,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/siddhantsorann
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SiddhantSorann
   # - icon: cv
   #   icon_pack: ai
   #   link: uploads/resume.pdf
@@ -64,10 +61,12 @@ email: ''
 highlight_name: true
 ---
 
-Having worked as a Software Engineer for four years, I have realized that the growth in the size of an application or system is proportionate to the scope of a business over time. However, this growth often presents challenges of scalability, efficiency, and privacy, thus deciding the solvency of a business. Therefore, with a motivation to enhance my knowledge in distributed systems and lead teams in the industry to develop more scalable and efficient systems, I am pursuing a Master’s in Computer Science at Arizona State University. This degree would provide me with a robust platform for advancing my knowledge and augment my ability to develop scalable applications.
+Hello! I'm Siddhant, a dedicated software engineer actively seeking new opportunities in software engineering roles. With a Master’s degree in Computer Science (4.0 GPA) and over four years of rich experience in the tech industry, particularly in the Programmatic Ad-Tech sector. My journey in software engineering is underpinned by a robust command over technologies such as Java, Spring Boot, Python, Ruby, SQL, ReactJS, Docker, Kubernetes and more, alongside a proven track record of leading innovative projects that significantly enhance operational efficiency and customer satisfaction.
 
-I completed my B.Tech. in Computer Science & Engineering from Vellore Institute of Technology in 2018. After this, I joined MiQ Digital as a Software Engineer. I managed to drive many critical projects to completion, which helped me become one of the youngest Senior Software Engineer there. I was endowed with multiple awards for showcasing our company values.
+One of my career highlights includes leading a pivotal project that dramatically reduced data processing times for ad campaigns from 60 minutes to just 1 minute. This achievement, which was facilitated by implementing a distributed system and a pub-sub model with Kafka and Kubernetes, not only earned me the MiQ Impact Award but also underscored my capacity to deliver innovative solutions that resonate with clients and stakeholders.
 
-Some of my passions include Microservices, Distributed Systems, Big Data, REST, CI/CD, and HA/DR Services. I have also been a passionate open-source contributor, having majorly contributed to the project [Spring Cloud Dataflow](https://dataflow.spring.io/). I also author [Tech Blogs](https://medium.com/@siddhant_47693) to share my learnings with a wider audience. 
+My professional ethos extends beyond the confines of daily tasks. I have been recognized as the Employee of the Year at MIQ for consistently embodying the company's core values. Furthermore, my engagement with the community through open-source contributions, authoring [tech blogs](https://medium.com/@siddhant_47693), and receiving commendable recommendations on [LinkedIn](https://www.linkedin.com/in/siddhant-sorann/) from managers and peers mirror my commitment to fostering innovation and leadership within the tech landscape.
+
+My passion for software engineering is driven by the endless possibilities it presents in solving complex problems, improving business operations, and unlocking new opportunities. From a young age, I've been captivated by how technology can turn imaginative ideas into tangible solutions that not only propel efficiency and innovation but also have a meaningful impact on people and businesses.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
